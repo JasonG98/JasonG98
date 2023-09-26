@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JasonGuo
+- ⚡ I'm proficient in Python, object detection and tracking, model deployment
+- 👀 I’m interested in computer vision and AI
+- 🌱 I’m currently learning the latest algorithms in object detection and segmentation
+- 💞️ I’m looking to collaborate on visual AI projects
+- 📫 How to reach me: 941922393@qq.com
